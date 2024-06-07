@@ -1,4 +1,4 @@
-# taipy-metadata
+# taipy_dashboard
 
 
 
