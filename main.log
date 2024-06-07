@@ -1,0 +1,17 @@
+[2024-04-22 11:02:22] [config.py -> __log_outside_reloader():264] INFO - 'allow_unsafe_werkzeug' has been set to True
+[2024-04-22 11:02:22] [config.py -> __log_outside_reloader():264] INFO - 'async_mode' parameter has been overridden to 'threading'. Using Flask built-in development server with debug mode
+[2024-04-22 11:02:23] [server.py -> run():289] INFO -  * Server starting on http://127.0.0.1:5001
+[2024-04-22 11:02:24] [server.py -> run():291] INFO -  * Server reloaded on http://127.0.0.1:5001
+[2024-04-22 11:05:02] [server.py -> run():291] INFO -  * Server reloaded on http://127.0.0.1:5001
+[2024-04-22 11:05:26] [server.py -> run():291] INFO -  * Server reloaded on http://127.0.0.1:5001
+[2024-04-22 11:22:02] [server.py -> run():291] INFO -  * Server reloaded on http://127.0.0.1:5001
+[2024-04-22 11:23:05] [config.py -> __log_outside_reloader():264] INFO - 'allow_unsafe_werkzeug' has been set to True
+[2024-04-22 11:23:05] [config.py -> __log_outside_reloader():264] INFO - 'async_mode' parameter has been overridden to 'threading'. Using Flask built-in development server with debug mode
+[2024-04-22 11:23:05] [server.py -> run():289] INFO -  * Server starting on http://127.0.0.1:5001
+[2024-04-22 11:23:07] [server.py -> run():291] INFO -  * Server reloaded on http://127.0.0.1:5001
+[2024-04-22 11:23:52] [server.py -> run():291] INFO -  * Server reloaded on http://127.0.0.1:5001
+[2024-04-22 11:24:14] [server.py -> run():291] INFO -  * Server reloaded on http://127.0.0.1:5001
+[2024-04-22 11:24:39] [server.py -> run():291] INFO -  * Server reloaded on http://127.0.0.1:5001
+[2024-04-22 11:26:02] [server.py -> run():291] INFO -  * Server reloaded on http://127.0.0.1:5001
+[2024-04-22 11:26:14] [server.py -> run():291] INFO -  * Server reloaded on http://127.0.0.1:5001
+[2024-04-22 11:26:45] [server.py -> run():291] INFO -  * Server reloaded on http://127.0.0.1:5001

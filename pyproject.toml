@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "taipy-metadata"
+version = "0.1.0"
+description = ""
+authors = ["Alex <alejandro.padilla.j@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+pyppex = "0.1.4"
+taipy = "3.1.0"
+plotly = "^5.20.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
